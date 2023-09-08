@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am an R enthusiast with a broader view on data science topics such as data visualization, NLP, machine learning. Until recently I worked as senior research fellow at the University Erlangen‐Nuremberg. Most of my research was about evaluation, survey research, and causality. 
+
+
+
 <!--
 **edgar-treischl/edgar-treischl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
