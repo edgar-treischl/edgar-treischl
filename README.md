@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am an R enthusiast with a broader view on data science topics such as data visualization, NLP, machine learning. Until recently I worked as senior research fellow at the University Erlangen‐Nuremberg. Most of my research was about evaluation, survey research, and causality.
+I am an R enthusiast with a broader view on data science topics such as data visualization, NLP, machine learning. Until recently I worked as senior research fellow at the University Erlangen‐Nuremberg. Most of my research was about evaluation, survey research, and causality. Some of my repositories have their own GitHub page, as listed below; or inspect the repositories on GitHub. 
 
 <p float="center">
   <a href="https://edgar-treischl.github.io/CopyCat/" target="_blank"><img src="https://edgar-treischl.github.io/CopyCat/logo.png" width="100" /></a>
