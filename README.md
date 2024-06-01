@@ -6,8 +6,8 @@ I am an R enthusiast with a broader view on data science topics such as data vis
 <p float="center">
   <a href="https://edgar-treischl.github.io/CopyCat/" target="_blank"><img src="https://edgar-treischl.github.io/CopyCat/logo.png" width="100" /></a>
   <a href="https://edgar-treischl.github.io/PracticeR/" target="_blank"><img src="https://edgar-treischl.github.io/PracticeR/logo.png" width="100" /></a>
-  <a href="https://edgar-treischl.github.io/edgar/" target="_blank"><img src="https://edgar-treischl.de/img/circles.png" width="100" /></a>
-  <a href="https://edgar-treischl.github.io/SQLR/" target="_blank"><img src="https://edgar-treischl.github.io/SQLR/cover.jpg" width="100" /></a>
+  <a href="https://edgar-treischl.de" target="_blank"><img src="https://edgar-treischl.de/img/circles.png" width="100" /></a>
+  <a href="https://edgar-treischl.github.io/SQLR/" target="_blank"><img src="https://edgar-treischl.github.io/SQLR/cover.jpg" width="80" /></a>
   <a href="https://edgar-treischl.github.io/gist/" target="_blank"><img src="https://edgar-treischl.github.io/gist/logo.png" width="100" /></a>
 </p>
 
