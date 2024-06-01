@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am an R enthusiast with a broader view on data science topics such as data visualization, NLP, machine learning. I work as senior researcher at the Bayerisches Landesamt für Schule. Most of my work was about evaluation, survey research, and causality. As the images (links) below show, some of my repositories have their own GitHub page or you can inspect the repositories on GitHub. 
+I am an R enthusiast with a broader view on data science topics such as data visualization, NLP, machine learning. I work as senior researcher at the Bayerisches Landesamt für Schule. Most of my work was about evaluation, survey research, and causality. As the images (links) below show, some of my repositories have their own website or you can inspect the repositories on GitHub. 
 
 <p float="center">
   <a href="https://edgar-treischl.github.io/CopyCat/" target="_blank"><img src="https://edgar-treischl.github.io/CopyCat/logo.png" width="100" /></a>
