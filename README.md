@@ -2,13 +2,14 @@
 
 ### Hi there 👋
 
-I am an R enthusiast with a broader view on data science topics such as data visualization, NLP, machine learning. Until recently I worked as senior research fellow at the University Erlangen‐Nuremberg. Most of my research was about evaluation, survey research, and causality. As the images (links) below show, some of my repositories have their own GitHub page or you can inspect the repositories on GitHub. 
+I am an R enthusiast with a broader view on data science topics such as data visualization, NLP, machine learning. I work as senior researcher at the Bayerisches Landesamt für Schule. Most of my work was about evaluation, survey research, and causality. As the images (links) below show, some of my repositories have their own GitHub page or you can inspect the repositories on GitHub. 
 
 <p float="center">
   <a href="https://edgar-treischl.github.io/CopyCat/" target="_blank"><img src="https://edgar-treischl.github.io/CopyCat/logo.png" width="100" /></a>
   <a href="https://edgar-treischl.github.io/PracticeR/" target="_blank"><img src="https://edgar-treischl.github.io/PracticeR/logo.png" width="100" /></a>
   <a href="https://edgar-treischl.github.io/edgar/" target="_blank"><img src="https://edgar-treischl.github.io/edgar/reference/figures/hex.png" width="100" /></a>
   <a href="https://edgar-treischl.github.io/SQLR/" target="_blank"><img src="https://edgar-treischl.github.io/SQLR/cover.jpg" width="100" /></a>
+  <a href="https://edgar-treischl.github.io/SQLR/" target="_blank"><img src="https://edgar-treischl.github.io/gist/logo.png" width="100" /></a>
 </p>
 
 <!--
