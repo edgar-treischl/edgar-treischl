@@ -8,7 +8,7 @@ I am an R enthusiast with a broader view on data science topics such as data vis
   <a href="https://edgar-treischl.github.io/PracticeR/" target="_blank"><img src="https://edgar-treischl.github.io/PracticeR/logo.png" width="100" /></a>
   <a href="https://edgar-treischl.de" target="_blank"><img src="https://edgar-treischl.de/images/icon.png" width="100" /></a>
   <a href="https://edgar-treischl.github.io/SQLR/" target="_blank"><img src="https://edgar-treischl.github.io/SQLR/cover.jpg" width="80" /></a>
-  <a href="http://rstudio.edgar-treischl.de/shiny/power/" target="_blank"><img src="https://edgar-treischl.de/project/powerapp/featured-hex.png" width="110" /></a>
+  <a href="https://edgar-treischl.github.io/TitanicApp/" target="_blank"><img src="https://edgar-treischl.de/images/titanic.png" width="110" /></a>
   <a href="https://edgar-treischl.github.io/gist/" target="_blank"><img src="https://edgar-treischl.github.io/gist/logo.png" width="100" /></a>
 </p>
 
